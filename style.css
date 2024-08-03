@@ -79,7 +79,7 @@ margin-left: 20px;
     font-size: 36px;
     font-weight: extra-bold;
     color: #1f2937;
-    margin: 10px 50px;
+    margin: 50px 10px 50px 10px;
 }
 
 .cards-container {
@@ -115,7 +115,7 @@ margin-left: 20px;
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 400px;
+    height: 300px;
 }
 
 .quote-container{
@@ -127,4 +127,54 @@ width: 600px;
     color: #1f2937;
     font-style: italic;
     font-weight: lighter;
+}
+
+.cta-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    height: 300px;
+}
+
+.cta-blue-container {
+background-color: #3882f6;
+display: flex;
+justify-content: space-between;
+align-items: center;
+width: 800px;
+border-radius: 10px;
+}
+
+.cta-content {
+display: flex;
+justify-content: space-between;
+margin: 50px;
+flex-direction: column;
+}
+
+.cta-content h2 {
+font-size: 18px;
+color: #f9faf8;
+font-weight: bold;
+margin-bottom: 10px;
+}
+
+.cta-content p {
+font-size: 12px;
+color: #f9faf8;
+}
+
+.cta-button {
+border: white 2px solid;
+background-color: #3882f6;
+padding: 10px 20px;
+color: #f9faf8;
+margin-right: 100px;
+}
+
+.cta-button:hover {
+    border: #3882f6 2px solid;
+background-color: #f9faf8;
+color: #3882f6;
 }

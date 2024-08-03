@@ -1,3 +1,3 @@
 # odin-landing-page
-<h1>Fist landing page using flexbox</h1>
-<p>Image is from unsplash, done by Growtika</p>
+<h3>First landing page using flexbox</h3>
+<p>Image is from unsplash, created by Growtika</p>
