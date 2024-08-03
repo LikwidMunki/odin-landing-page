@@ -109,3 +109,22 @@ margin-left: 20px;
     align-items: center;
     justify-content: center;
 }
+
+.quote {
+    background-color: #e5e7eb;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 400px;
+}
+
+.quote-container{
+width: 600px;
+}
+
+.quote p {
+    font-size: 36px;
+    color: #1f2937;
+    font-style: italic;
+    font-weight: lighter;
+}
